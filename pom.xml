@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>xin.jiangqiang</groupId>
-    <artifactId>gui20201113</artifactId>
+    <artifactId>gui</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>gui20201113</name>
-    <description>Demo project for Spring Boot</description>
+    <name>gui</name>
+    <description>Demo project for swing</description>
 
     <properties>
         <java.version>11</java.version>
